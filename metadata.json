@@ -1,0 +1,5 @@
+{
+  "name": "AINA Session Manager",
+  "description": "A secure dashboard to reset and manage user sessions for AINA agents.",
+  "requestFramePermissions": []
+}
